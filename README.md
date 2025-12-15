@@ -54,7 +54,7 @@ A modern, feature-rich Point of Sale (POS) system built with Laravel, designed f
 - **PDF Generation**: DomPDF (with Laravel wrapper)
 - **Excel Export**: PhpSpreadsheet (via Laravel Excel)
 
-## 📋 Requirements
+## Requirements
 
 - PHP >= 8.1
 - Composer
@@ -293,8 +293,6 @@ This project is proprietary software. All rights reserved.
 
 For support, feature requests, or bug reports:
 - Email: makerijerry.dev@gmail.com
-- Documentation: [Link to docs]
-- Issue Tracker: [Link to issues]
 
 ## Acknowledgments
 

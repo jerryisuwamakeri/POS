@@ -44,7 +44,7 @@ A modern, feature-rich Point of Sale (POS) system built with Laravel, designed f
 - Expense management
 - Report generation and exports
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Backend**: Laravel 10.x
 - **Frontend**: Blade Templates + Tailwind CSS + Vite
